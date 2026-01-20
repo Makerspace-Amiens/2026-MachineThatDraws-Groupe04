@@ -5,7 +5,7 @@ title: Accueil
 permalink: /
 ---
 
-# Bienvenue sur notre documentation
+# Bienvenue sur notre tuto github
 
 Bienvenue dans la documentation du projet "Machine That Draws". Ce site a pour but de fournir toutes les informations nécessaires pour comprendre, utiliser et reproduire efficacement notre projet.
 
