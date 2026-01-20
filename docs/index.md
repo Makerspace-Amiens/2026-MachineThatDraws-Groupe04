@@ -9,6 +9,8 @@ permalink: /
 
 Bienvenue dans la documentation du projet "Machine That Draws". Ce site a pour but de fournir toutes les informations nécessaires pour comprendre, utiliser et reproduire efficacement notre projet.
 
+Test du changement 
+
 [Notre projet sur Onshape](https://cad.onshape.com/documents/5602f51af147e57925e832cd/w/aacc746d47a23e5e48b11085/e/fa8fed0845bc65793a6c6b61){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Notre repo GitHub]([https://github.com/Makerspace-Amiens/template-project](https://github.com/Makerspace-Amiens/2026-MachineThatDraws-Groupe04)){: .btn .fs-5 .mb-4 .mb-md-0 }
 
