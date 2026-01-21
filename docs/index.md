@@ -15,8 +15,8 @@ Bienvenue dans la documentation du projet "Machine That Draws" du Groupe 4. Ce s
 
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=5602f51af147e57925e832cd&wvm=v&wvmid=5f5dd476191c9eabd04f97fc&eid=fa8fed0845bc65793a6c6b61&elementType=ASSEMBLY" frameborder="0"></iframe>
 
-{: .warning }
->Pour intégrer la visualisation de votre projet Onshape, utilisez le site https://modelembedder.net . Activez le partage par lien via l'outil de partage de Onshape. n'oubliez pas d'activer l'option "export". Puis completez l'iframe ci-dessus avec le lien généré par le site https://modelembedder.net. Vous pouvez mettre à jour également le bouton avec le lien de partage de votre modèle.
+<!--{: .warning }
+>Pour intégrer la visualisation de votre projet Onshape, utilisez le site https://modelembedder.net . Activez le partage par lien via l'outil de partage de Onshape. n'oubliez pas d'activer l'option "export". Puis completez l'iframe ci-dessus avec le lien généré par le site https://modelembedder.net. Vous pouvez mettre à jour également le bouton avec le lien de partage de votre modèle.-->
 
 
 ## À propos du Projet
@@ -24,9 +24,9 @@ Bienvenue dans la documentation du projet "Machine That Draws" du Groupe 4. Ce s
 Décrivez ici en quelques lignes l'objectif et l'aperçu général de votre projet. Quel est son but ? À qui est-il destiné ? Quels problèmes cherche-t-il à résoudre ?
 Test Test
 
-## Poster
+## Poster de Notre projet
 
-Ici vous publierez le poster de votre projet.
+<!-- Ici vous publierez le poster de votre projet. -->
 
 ![Poster projet](images\postertest.png)
 
