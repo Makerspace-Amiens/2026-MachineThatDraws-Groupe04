@@ -5,7 +5,7 @@ title: Accueil
 permalink: /
 ---
 
-# Bienvenue la page explicative de notre porjet
+# Bienvenue la page explicative de notre projet
 
 
 Bienvenue dans la documentation du projet "Machine That Draws" du Groupe 4. Ce site a pour but de fournir toutes les informations nécessaires pour comprendre, utiliser et reproduire efficacement notre projet.
