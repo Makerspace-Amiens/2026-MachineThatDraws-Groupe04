@@ -28,7 +28,7 @@ Test Test
 
 Ici vous publierez le poster de votre projet.
 
-![Poster projet](poster.pdf)
+![Poster projet](image\postertest.png)
 
 ## Vidéo
 
