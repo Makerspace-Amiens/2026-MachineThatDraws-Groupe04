@@ -7,7 +7,6 @@ permalink: /
 
 # Bienvenue sur notre tuto github
 
-Test formel de 67
 
 Bienvenue dans la documentation du projet "Machine That Draws". Ce site a pour but de fournir toutes les informations nécessaires pour comprendre, utiliser et reproduire efficacement notre projet.
 
