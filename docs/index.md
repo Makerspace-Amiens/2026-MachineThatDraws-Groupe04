@@ -4,7 +4,7 @@ nav_order: 1
 title: Accueil
 permalink: /
 ---
-
+<link rel="icon" type="image/png" href="images\image(1).png">
 # Bienvenue la page explicative de notre projet
 
 
