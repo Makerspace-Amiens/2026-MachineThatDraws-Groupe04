@@ -4,7 +4,7 @@ nav_order: 1
 title: Accueil
 permalink: /
 ---
-<link rel="icon" type="image/png" href="images/image.ico">
+<link rel="icon" type="image/png" href="C:\Users\lukch\Desktop\2026-MachineThatDraws-Groupe04\docs\images\image.ico">
 # Bienvenue la page explicative de notre projet
 
 
