@@ -4,8 +4,7 @@ nav_order: 1
 title: Accueil
 permalink: /
 ---
-<link rel="icon" type="image/png" href="images/favicon.ico
-">
+<link rel="icon" type="image/png" href="images/favicon.ico">
 # Bienvenue la page explicative de notre projet
 
 
