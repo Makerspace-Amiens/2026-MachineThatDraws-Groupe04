@@ -31,7 +31,7 @@ Test Test
 
 ## Vidéo
 
-Ici vous publierez la vidéo de votre projet (TEST2). 
+Ici vous publierez la vidéo de votre projet. 
 - 1min30 au format vertical
 - Présentation du projet 
 - Des explication du fonctionnement du projet
@@ -40,6 +40,6 @@ Ici vous publierez la vidéo de votre projet (TEST2).
 - Une conclusion
 - Si en stockage local : <50mo
 
-<video src="images/video.mp4" controls title="Title"  style="width: 100%;"></video>
+<video src="images/video.mp4" controls title="Title"  style="width: 50%;"></video>
 
 ---
