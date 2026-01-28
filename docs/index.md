@@ -31,7 +31,7 @@ Test Test
 
 ## Vidéo
 
-Ici vous publierez la vidéo de votre projet. 
+Ici vous publierez la vidéo de votre projet (TEST). 
 - 1min30 au format vertical
 - Présentation du projet 
 - Des explication du fonctionnement du projet
