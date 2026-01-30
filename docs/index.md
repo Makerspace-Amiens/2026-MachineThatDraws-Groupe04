@@ -1,16 +1,18 @@
 ---
-layout: home
-nav_order: 1
-title: Accueil
-permalink: /
+title: Bulma Clean Theme
+subtitle: This is the demo site for Bulma Clean Theme
+layout: page
+callouts: home_callouts
+show_sidebar: true
 ---
 
 # Bienvenue sur notre documentation
+coucou 2 
 
-Bienvenue dans la documentation du projet XY. Ce site a pour but de fournir toutes les informations nécessaires pour comprendre, utiliser et reproduire efficacement notre projet.
+Bienvenue dans la documentation du projet "Machine That Draws". Ce site a pour but de fournir toutes les informations nécessaires pour comprendre, utiliser et reproduire efficacement notre projet.
 
-[Notre projet sur Onshape]https://cad.onshape.com/documents/5602f51af147e57925e832cd/w/aacc746d47a23e5e48b11085/e/fa8fed0845bc65793a6c6b61){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[Notre repo GitHub](https://github.com/Makerspace-Amiens/template-project){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Notre projet sur Onshape](https://cad.onshape.com/documents/5602f51af147e57925e832cd/w/aacc746d47a23e5e48b11085/e/fa8fed0845bc65793a6c6b61){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Notre repo GitHub](https://github.com/Makerspace-Amiens/2026-MachineThatDraws-Groupe04){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=2860ed3d58f1b518e6857770&wvm=v&wvmid=6280fca954e7770df59e5a2f&eid=0cab16137cd459ee83ebe56e&elementType=ASSEMBLY" frameborder="0"></iframe>
 
