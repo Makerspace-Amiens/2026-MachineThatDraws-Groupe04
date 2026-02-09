@@ -1,5 +1,5 @@
 ---
-title: Bulma Clean Theme
+title: Projet Makerspace : Machine That Draws
 subtitle: This is the demo site for Bulma Clean Theme
 layout: page
 callouts: home_callouts
